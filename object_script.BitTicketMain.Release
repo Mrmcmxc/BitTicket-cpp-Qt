@@ -1,0 +1,11 @@
+release/addticketdialog.o
+release/editticketdialog.o
+release/logindialog.o
+release/main.o
+release/mainwindow.o
+release/ticket.o
+release/qrc_images.o
+release/moc_addticketdialog.o
+release/moc_editticketdialog.o
+release/moc_logindialog.o
+release/moc_mainwindow.o
